@@ -1,45 +1,5 @@
 [
   {
-    "id": null,
-    "userName": "5638293345",
-    "salutation": null,
-    "name": "Josue Nikolaus DVM",
-    "gender": "Male",
-    "mobileNumber": "5638293345",
-    "emailId": "Josue Nikolaus DVM@egov.com",
-    "altContactNumber": null,
-    "pan": null,
-    "aadhaarNumber": null,
-    "permanentAddress": "Haiti,South,mouth,Belarus,Horacio Walk,89720-9574",
-    "permanentCity": "Mauritius",
-    "permanentPinCode": "96535-8669",
-    "correspondenceAddress": "Suite 513",
-    "correspondenceCity": "Papua New Guinea",
-    "correspondencePinCode": "42855-4221",
-    "active": true,
-    "locale": null,
-    "type": "CITIZEN",
-    "accountLocked": false,
-    "fatherOrHusbandName": null,
-    "signature": "http://placehold.it/32x32",
-    "bloodGroup": null,
-    "photo": "http://placehold.it/32x32",
-    "identificationMark": null,
-    "createdBy": null,
-    "password": "demo",
-    "otpReference": null,
-    "lastModifiedBy": null,
-    "tenantId": "default",
-    "roles": [
-      {
-        "id": null,
-        "code": "CITIZEN",
-        "name": null
-      }
-    ],
-    "createdDate": null,
-    "lastModifiedDate": null,
-    "dob": null,
-    "pwdExpiryDate": null
+    "name": "Josue Nikolaus DVM"
   }
 ]
